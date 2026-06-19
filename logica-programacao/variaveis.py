@@ -53,3 +53,4 @@ mentalidades = float(input("qual a porcentagem que você tem de malicia nas idei
 
 tem_pai = input(" digine s/n se você tem pai")
 tem_mae = input("digine s/n se você tem mãe")
+print(tem_pai, tem_mae)
