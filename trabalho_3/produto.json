@@ -1,0 +1,10 @@
+{
+    "nome": "Notebook Gamer XPro",
+    "preco": 4599.9,
+    "quantidade_estoque": 12,
+    "categorias": [
+        "informática",
+        "notebooks",
+        "gamer"
+    ]
+}
